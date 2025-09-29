@@ -1,2 +1,2 @@
 # medico-legal-rag
-This repository provides codes and pipelines for a RAG system on NHS clinical-negligence cases, benchmarking BM25, dense, hybrid, and reranker retrieval for automated breach and causation reasoning. Includes modular evaluation, clustering analyses, and fully reproducible experiments for medical NLP and healthcare AI research.
+This repository contains code and pipelines for a retrieval-augmented generation (RAG) system applied to NHS clinical negligence cases. It benchmarks multiple retrieval strategies (BM25, dense, hybrid, hybrid+reranker) for automated breach and causation reasoning, and provides modular evaluation tools, clustering analyses, and fully reproducible experiments to support medical NLP and healthcare AI research.
